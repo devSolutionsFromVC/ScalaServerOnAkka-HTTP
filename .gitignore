@@ -1,2 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.idea/*
+*.class
+*.iml
+hs_err_pid*
+*.jar
+*.war
+*.ear
+=======
 *.class
 *.log
+>>>>>>> 023119cddaa278f2597de837f56fa89fe87e99d4
+=======
+*.class
+*.log
+>>>>>>> a18b85dd5374ff53701070b4cd69559a9cb41777
